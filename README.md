@@ -1,4 +1,4 @@
-# URL-To-Google-Drive
+# URL to Google Drive
 
 It's a Simple Colab Notebook to Download Anything to Google Drive.
 When we download/upload something from a cloud server, it gives more transfer rate as compared to a normal server.
